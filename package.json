@@ -1,7 +1,8 @@
 {
   "name": "hardhat-project",
   "scripts": {
-    "build": "forge build"
+    "build": "forge build", 
+		"test" : "forge test"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.1.2",
